@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 
 ## Hi, I'm Manoj Kumar👋
 
-<a href="https://github.com/shaukeencoder">
-  <img align="left" alt="Manoj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
 
 
 
