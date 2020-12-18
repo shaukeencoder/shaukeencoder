@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 👯 I love to collaborate on intresting Projects.
 - 💬 You can ask me stuffs related to Django.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Sheldon is not carzy, His mother had him tested.
+- ⚡ Fun fact: Sheldon is not crazy, His mother had him tested.
 <!--
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/imthepk)
 [![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
